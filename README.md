@@ -126,7 +126,7 @@ This plugin is intended for **EDUCATIONAL and ENTERTAINMENT** purposes only.
 
 ---
 
-Developed with ❤️ by **LynxHera**.
+Developed with ❤️ by **MrCaniwes**.
 
 *   **Wallhack Method:** ESP-Players-GoldKingZ
 *   **Menu System:** CS2MenuManager by Schwarper
