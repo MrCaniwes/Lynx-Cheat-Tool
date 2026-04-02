@@ -80,7 +80,7 @@ Edit `LynxCheatTool.json` to take full control:
 - [x] Smart Targeting System (@all, @ct, @t, #ID)
 - [x] Multi-language Localization (TR/EN Support) 🌍
 - [ ] New Advanced Cheats (Triggerbot, Infinite Ammo, etc.)
-- [ ] In-game Menu UI Support
+
 
 ---
 
