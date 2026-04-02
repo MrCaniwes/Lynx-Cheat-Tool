@@ -46,7 +46,7 @@
 ---
 
 ## 🎯 Smart Targeting Syntax
-Our God-mode command system allows for surgical precision:
+Our All commands allows for surgical precision:
 
 | Target | Description | Example |
 | :--- | :--- | :--- |
