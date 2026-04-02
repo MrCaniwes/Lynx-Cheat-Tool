@@ -88,3 +88,6 @@ Developed with ❤️ by **MrCaniwes**
 
 > [!NOTE]
 > **🤖 Fully Architected by AI:** This entire project, including its modular framework and performance optimizations, was developed and refined by **AI**. Future-proof modding at its finest.
+
+ **Credits:**
+*   **ESP Module:** Based on [cs2-ESP-Players-GoldKingZ](https://github.com/oqyh/cs2-ESP-Players-GoldKingZ) by oqyh.
